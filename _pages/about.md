@@ -27,4 +27,4 @@ I also have a deep interest in public policy and national security. I have previ
 
 In my free time, I like to read: mostly sci-fi, fantasy, and history. I enjoy table top role playing games like Dungeons and Dragons as well as [thinking about the math](https://medium.com/new-writers-welcome/exploring-dice-math-with-explosions-6d558e36bfe5) behind them.
 
-**Email**: abhin \[at\] umich \[dot\] edu
+**Email**: abhinavk99 \[at\] gmail \[dot\] com
