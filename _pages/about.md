@@ -13,7 +13,7 @@ profile:
     <p>University of Michigan</p>
     <p>Ann Arbor</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -25,6 +25,6 @@ My research focuses on applying a combination of learning and planning technique
 
 I also have a deep interest in public policy and national security. I have previously worked with the [Special Competitive Studies Project](https://scsp.ai), a think tank investigating the impacts of advanced technologies on many aspects of our lives as well as offering policy recommendations on how the government and private sector can maximize the benefit of these technologies to the American people. I have also worked with the Naval War College on studying the ethics surrounding emerging military technologies. A fun recent project was helping set up my friend's [campaign for state senate](https://ashwinforgeorgia.com), specifically setting up and tracking the finances and designing a policy platform.
 
-In my free time, I like to read: mostly sci-fi, fantasy, and history. I enjoy table top role playing games like Dungeons and Dragons as well as [thinking about the math](https://medium.com/new-writers-welcome/exploring-dice-math-with-explosions-6d558e36bfe5) behind them.
+In my free time, I enjoy climbing, pretending I'm a film buff, and reading: mostly sci-fi, fantasy, and history. I also like table top role playing games like Dungeons and Dragons as well as [thinking about the math](https://medium.com/new-writers-welcome/exploring-dice-math-with-explosions-6d558e36bfe5) behind them.
 
 **Email**: abhinavk99 \[at\] gmail \[dot\] com
