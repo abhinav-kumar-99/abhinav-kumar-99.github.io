@@ -13,3 +13,9 @@ Initialized repository wiki from `_config.yml`, `Gemfile`, `README.md`, and `.gi
 Touched files: `.github/workflows/jekyll.yml`, `docs/wiki/workflows/github-pages.md`.
 
 The GitHub Actions log archive `logs_86893887983.zip` showed that the pinned `ruby/setup-ruby` commit rejected Ruby 3.3 on `ubuntu-24.04`. Updated the action to its maintained `@v1` reference, as the action documentation and its own failure message require for current Ruby version support.
+
+## [2026-08-17] debug | Missing Jekyll conversion tools
+
+Touched files: `.github/workflows/jekyll.yml`, `docs/wiki/workflows/github-pages.md`.
+
+The GitHub Actions log archive `logs_86894786088.zip` confirmed Ruby setup now succeeds, then showed `jekyll-jupyter-notebook` failing because `jupyter` is absent. The same build also logged missing ImageMagick `convert` commands. The workflow now installs `jupyter-nbconvert` and `imagemagick` before the Jekyll build so both plugins have their required executables.
